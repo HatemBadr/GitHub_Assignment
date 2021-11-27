@@ -202,4 +202,9 @@
 201,female,28,Facebook,3
 202,female,17,Facebook,8
 203,male,22,none,0
+<<<<<<< HEAD
 204,male,23,none,7
+=======
+204,male,23,none,0
+205,male,22,None,5
+>>>>>>> a2519eed5c613f0d1ec0daf795d2fc170e3d3fc1
